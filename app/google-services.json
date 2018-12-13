@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "162633067002",
+    "firebase_url": "https://aplication-photo-2.firebaseio.com",
+    "project_id": "aplication-photo-2",
+    "storage_bucket": "aplication-photo-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162633067002:android:096e10cfdf4edeef",
+        "android_client_info": {
+          "package_name": "com.imagesw.whatsstatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162633067002-etomrdu68576fmcacqterh2s9d8he9d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR99NGndf5P5JRe6CnkiYG3aAZ-m68MKg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+
+            android:icon="@drawable/prayer"
+            android:id="@+id/islamic"
+            android:title="إسلامية" />
+        <item
+            android:icon="@drawable/sun"
+            android:id="@+id/day_night"
+            android:title="الصباح والمساء" />
+
+        <item
+            android:icon="@drawable/love"
+            android:id="@+id/love"
+            android:title="حب وغرام" />
+        <item
+            android:icon="@drawable/mosque"
+            android:id="@+id/friday"
+            android:title="الجمعة" />
+        <item
+            android:icon="@drawable/group"
+            android:id="@+id/wisdom"
+            android:title="حكم وعبر" />
+        <item
+            android:icon="@drawable/reading"
+            android:id="@+id/khwater"
+            android:title="خواطر" />
+        <item
+            android:icon="@drawable/family"
+            android:id="@+id/mom_dad"
+            android:title="الأب والأم" />
+        <item
+            android:icon="@drawable/friendship"
+            android:id="@+id/freindship"
+            android:title="صداقة" />
+        <item
+            android:icon="@drawable/husband"
+            android:id="@+id/mariage"
+            android:title="زواج وخطوبة" />
+        <item
+            android:icon="@drawable/album"
+            android:id="@+id/other"
+            android:title="متنوعة" />
+        <item
+            android:icon="@drawable/tulips"
+            android:id="@+id/worod"
+            android:title="ورود" />
+        <item
+            android:icon="@drawable/house"
+            android:id="@+id/favorite_drawer"
+            android:title="المفضلة" />
+
+    </group>
+
+    <item android:title=" ">
+        <menu>
+            <item
+                android:icon="@drawable/share"
+                android:id="@+id/nav_share"
+                android:title="مشاركة التطبيق" />
+            <item
+                android:icon="@drawable/faa"
+                android:id="@+id/rate_us"
+                android:title="قيمنا" />
+
+            <item
+                android:icon="@drawable/policy"
+                android:id="@+id/privacy_policy"
+                android:title="سياسة الخصوصية"/>
+
+        </menu>
+    </item>
+
+</menu>

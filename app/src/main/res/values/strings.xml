@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name"> صور 2019</string>
+    <string name="banner_admob" >ca-app-pub-3940256099942544/630097811</string>
+    <string name="app_id_admob" >ca-app-pub-9393527026409681~498377084</string>
+    <string name="interstitial_admob" >ca-app-pub-3940256099942544/103373712</string>
+    <string name="interstitial_video" >ca-app-pub-3940256099942544/869161433</string>
+
+    <!--<string name="app_name">حالات صور 2019</string>-->
+    <!--<string name="banner_admob" >ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--<string name="app_id_admob" >ca-app-pub-9393527026409681~4983770854</string>-->
+    <!--<string name="interstitial_admob" >ca-app-pub-3940256099942544/1033173712</string>-->
+    <!--<string name="interstitial_video" >ca-app-pub-3940256099942544/8691691433</string>-->
+
+    <!--<string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--<string name="interstitial_full_screen">ca-app-pub-3940256099942544/1033173712</string>-->
+    <!--<string name="interstitial_full_video">ca-app-pub-3940256099942544/8691691433</string>-->
+    <!--<string name="app_id">ca-app-pub-9393527026409681~3522143935</string>-->
+
+
+    <!--<string name="app_name">حالات صور 2019</string>-->
+    <!--<string name="banner_admob" >ca-app-pub-9393527026409681/1245752110</string>-->
+    <!--<string name="app_id_admob" >ca-app-pub-9393527026409681~4983770854</string>-->
+    <!--<string name="interstitial_admob" >ca-app-pub-9393527026409681/3680343768</string>-->
+    <!--<string name="interstitial_video" >ca-app-pub-9393527026409681/9229998972</string>-->
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".view_pic">
+
+
+
+
+
+
+   <item android:id="@+id/view_pic_share"
+       android:title="مشاركة"
+       android:icon="@drawable/ic_share"
+       app:showAsAction="always"
+       />
+    <item android:id="@+id/view_pic_download"
+        android:title="تنزيل"
+        android:icon="@drawable/ic_download"
+        app:showAsAction="always"
+        />
+ <item android:id="@+id/view_pic_favorite"
+        android:title="إضافة للمفضلة"
+        android:icon="@drawable/unfav"
+        app:showAsAction="always"
+        />
+
+
+
+    <item
+        android:id="@+id/home"
+        android:title= "الشاشة الرئيسية"
+        />
+    <item
+        android:id="@+id/exit_item"
+        android:title= "خروج"        />
+
+
+
+</menu>
